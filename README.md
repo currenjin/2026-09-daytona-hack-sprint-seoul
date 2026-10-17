@@ -2,6 +2,8 @@
 
 각각은 통과하는데 합치면 깨지는 PR을, 합치기 전에 찾습니다.
 
+![Collider 발표 표지: PR #41 PASS, PR #42 PASS, 둘을 합치면 COLLISION](docs/images/cover.png)
+
 CI는 이 PR이 오늘의 main과 맞는지만 검사합니다. 곧 머지될 옆 PR과 함께 있어도 괜찮은지는 아무도 검사하지 않습니다.
 
 > Daytona HackSprint Seoul · 2026-09-19
