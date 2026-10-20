@@ -134,7 +134,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          repository: currenjin/daytona-hack-sprint
+          repository: currenjin/2026-09-daytona-hack-sprint-seoul
           path: collider
       - uses: actions/setup-node@v4
         with:
